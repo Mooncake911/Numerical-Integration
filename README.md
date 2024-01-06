@@ -7,8 +7,8 @@ This work is dedicated to the Numerical Integration by using _OpenMP_ and _OpenM
 3.  **Monte Carlo Method**
    
 ## Notes:
-1. **HPC_computing.cpp** - Realize OpenMP.
-2. **not_HPC_computing.cpp** - Realize OpenMPI.
+**HPC_computing.cpp** - Realize OpenMP.
+**not_HPC_computing.cpp** - Realize OpenMPI.
    
 ## Reference:
 - [Presentation](https://gamma.app/docs/3km2r4pyh48ob0z)
